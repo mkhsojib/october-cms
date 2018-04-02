@@ -3,6 +3,14 @@ url = "/about"
 layout = "default"
 description = "this is about us page"
 is_hidden = 0
+
+[resourcesLinks]
+link1 = "http://sojib.com/"
+link2 = "http://google.test/"
+link3 = "http://nice.test/"
 ==
 <h1>About Us</h1>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sint, debitis, officiis, modi animi laborum minus voluptatem veniam et enim pariatur rem nostrum vel alias asperiores aliquid itaque labore dolore numquam?</p>
+
+<hr>
+{% component 'resourcesLinks' %}

@@ -23,4 +23,6 @@
   'backend\\Controllers\\users' => 'modules/backend/controllers/users.php',
   'system\\Controllers\\mailtemplates' => 'modules/system/controllers/mailtemplates.php',
   'system\\Controllers\\mailbrandsettings' => 'modules/system/controllers/mailbrandsettings.php',
+  'sojib\\resources\\Plugin' => 'plugins/sojib/resources/Plugin.php',
+  'Sojib\\Resources\\Components\\Links' => 'plugins/sojib/resources/components/Links.php',
 );

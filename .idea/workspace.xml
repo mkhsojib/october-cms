@@ -2,56 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d4ff2357-5501-4b64-b596-9dc1cd739c97" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/themes/acme/assets/css/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/acme/assets/javascript/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/acme/assets/vendor/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/acme/assets/vendor/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/acme/layouts/default.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/acme/pages/home.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/acme/partials/site/footer.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/acme/partials/site/header.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/acme/theme.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/acme/pages/blog/category.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/acme/pages/blog/post.htm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes/acme/pages/blog/rss.htm" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/014ef3951b0a3d83b655653ec830ec99" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/01b7732327b90dae4319fb1f7532eceb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/0366a8edf063600a9b91fe6a27d709f2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/0be4b56c40f1b7594d49293546025cd3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/11b9828bfa87f017064a1ed3314b164d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/16197964912f58a3a509e388e3df326a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/19515c32a2a8c425f2f08c1ac54de83a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/26a6dd583bc24705ee640d5002f38699" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/35d46d726b4ee3c3db9ef5c50bf4ddc6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/4231e28fb54b32a222b9210b774bbfac" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/540dcc92d7fb1c1e9049642a9bf704f3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/581e8e9f399b41aea134cde12bd25d8a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/5f5d18c4a6dc50131a4a343d122d67db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/6d92af24f27d4a8cf5bcd84b792d462b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/770d61b998795111586f26f920c4b60d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/a13f9e7f7b7f1def7e8ab0c5dbad4f87" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/a1e60d81771a07cd766572b5be3e2c3a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/b149254310cf6d07bcba762d2ff05b8a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/b4e4ac0fdd4e59bb7ef27f8772254231" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/bb8ccd1a0c57c61f456a53b5957d21bb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/ca37b5c5111068e18e3ebda106ccbd82" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/ced89f3509b7464f0d03111bf0f92402" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/d112536b80234237f46b960c71e5a7c0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/d596bbe40ea47a8192cb2d0157b5f1f6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/d82d0dfa61a8b4583196ca96f956acbd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/de956a2b1c08e53889e96e93233a3766" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/eee0f0601dee14dce3e0c7efeb553d39" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/f084c32962b577a6a46ffbe1dccdf76f" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/cms/combiner/assets/fb322b4b735af3e832b4c64970957088" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/34/4b/344ba3e8faba8a31a87396824639c554f9e5b8f0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/40/19/4019cc05ea0bab68ab44bed2752e7ea696e92014" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/43/cd/43cd68a12422fb6213b49f0f02b0a540b35ec18a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/7d/bc/7dbcdf061a765b5d840afeac0181cb6f6dabeff3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/91/38/home.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/91/38/home.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/a7/95/footer.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/a7/95/footer.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/cache/e3/20/header.htm.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/cache/e3/20/header.htm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/4d/4dfbc8732ae3a7723c1c24b90ac89d65fa07b3e3923146ae3c5d14d4a9ede0e4.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/twig/4d/4dfbc8732ae3a7723c1c24b90ac89d65fa07b3e3923146ae3c5d14d4a9ede0e4.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/58/58ef76fca1dd735c12545a61bf0e4c754360f1287f1c9e34c0ba9ec0b8989640.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/twig/58/58ef76fca1dd735c12545a61bf0e4c754360f1287f1c9e34c0ba9ec0b8989640.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/cms/twig/fa/fa67d2f1c3a21b5318d8a609b8fababc183396c6bc20b08b4abc3afa6c60700d.php" beforeDir="false" afterPath="$PROJECT_DIR$/storage/cms/twig/fa/fa67d2f1c3a21b5318d8a609b8fababc183396c6bc20b08b4abc3afa6c60700d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/42/75/42756db4c1af44fbad4e277762fedd275dab86f2" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/42/75/42756db4c1af44fbad4e277762fedd275dab86f2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/7a/cb/7acb853b629937a8d040f721e930fffb6815758b" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/7a/cb/7acb853b629937a8d040f721e930fffb6815758b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/97/37/9737833e426f53b3dcb4d98fdcb68c76762765de" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/a5/a3/a5a3d8e85b747602065ebe53940af40a205819fb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/b1/b6/b1b6b61b6cd58fcbec08f9d00687d524901e8a6d" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/c3/02/c302ee3909e94abbe09dfe73469152b25c752427" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/d0/1e/d01e8e95ac402ba16ad83ad09f6851991c3b6212" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/storage/framework/cache/ed/81/ed81251d1e03115276a64a42cbb5251926958e1a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/e1/2f/e12fa21be4df924ec45bf53d5c3f224ad3aeb210" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/e1/2f/e12fa21be4df924ec45bf53d5c3f224ad3aeb210" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage/framework/cache/e4/5f/e45ffc41dd02d0cd6d25f134614bc162592c8012" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/cache/e4/5f/e45ffc41dd02d0cd6d25f134614bc162592c8012" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/storage/framework/sessions/x5JHOifoEdqmppsTmYNLy2paAmeUYg0KSi5p5umx" beforeDir="false" afterPath="$PROJECT_DIR$/storage/framework/sessions/x5JHOifoEdqmppsTmYNLy2paAmeUYg0KSi5p5umx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/acme/pages/home.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/acme/pages/home.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/acme/partials/site/footer.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/acme/partials/site/footer.htm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/acme/partials/site/header.htm" beforeDir="false" afterPath="$PROJECT_DIR$/themes/acme/partials/site/header.htm" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -62,67 +32,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="app.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/app.php">
+      <file leaf-file-name="footer.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/acme/partials/site/footer.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state>
+              <caret column="44" selection-start-column="44" selection-end-column="44" />
+              <folding>
+                <element signature="e#33#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="database.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/database.php">
+      <file leaf-file-name="header.htm" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/acme/partials/site/header.htm">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="62" column="29" selection-start-line="62" selection-start-column="29" selection-end-line="62" selection-end-column="29" />
+            <state relative-caret-position="399">
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="home.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/acme/pages/home.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="default.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/acme/layouts/default.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/responsiv-clean/partials/site/header.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="sidebar.htm" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/responsiv-clean/partials/site/sidebar.htm">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme.yaml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/acme/theme.yaml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-            </state>
-          </provider>
+      <file leaf-file-name="rss.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/acme/pages/blog/rss.htm">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -142,10 +75,11 @@
       <list>
         <option value="$PROJECT_DIR$/themes/responsiv-clean/partials/site/sidebar.htm" />
         <option value="$PROJECT_DIR$/themes/acme/assets/css/theme.css" />
-        <option value="$PROJECT_DIR$/themes/acme/partials/site/header.htm" />
         <option value="$PROJECT_DIR$/themes/acme/assets/javascript/app.js" />
         <option value="$PROJECT_DIR$/themes/acme/layouts/default.htm" />
         <option value="$PROJECT_DIR$/themes/acme/theme.yaml" />
+        <option value="$PROJECT_DIR$/themes/acme/partials/site/footer.htm" />
+        <option value="$PROJECT_DIR$/themes/acme/partials/site/header.htm" />
       </list>
     </option>
   </component>
@@ -217,58 +151,7 @@
               <item name="acmewithoctobercms" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="acme" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="layouts" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="acmewithoctobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acmewithoctobercms" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="acme" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="pages" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="acmewithoctobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acmewithoctobercms" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="acme" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="acmewithoctobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acmewithoctobercms" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="acme" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="partials" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="site" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="acmewithoctobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acmewithoctobercms" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="acmewithoctobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acmewithoctobercms" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="acmewithoctobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acmewithoctobercms" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="javascript" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="acmewithoctobercms" type="b2602c69:ProjectViewProjectNode" />
-              <item name="acmewithoctobercms" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="themes" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="demo" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="assets" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -287,6 +170,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/acme/pages" />
       <recent name="$PROJECT_DIR$/themes" />
       <recent name="$PROJECT_DIR$/themes/acme/assets/javascript" />
       <recent name="$PROJECT_DIR$/themes/acme/assets/vendor" />
@@ -315,12 +199,12 @@
       <option name="presentableId" value="Default" />
       <updated>1522663841397</updated>
       <workItem from="1522663843152" duration="2390000" />
-      <workItem from="1522666593046" duration="941000" />
+      <workItem from="1522666593046" duration="1980000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3331000" />
+    <option name="totallyTimeSpent" value="4370000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="733" extended-state="6" />
@@ -410,13 +294,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/acme/partials/site/header.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/acme/assets/javascript/app.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -433,20 +310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/acme/pages/home.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/acme/layouts/default.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/responsiv-clean/partials/site/sidebar.htm">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
@@ -458,6 +321,47 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/demo/partials/site/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/acme/layouts/default.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/acme/pages/home.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/acme/partials/site/footer.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
+          <folding>
+            <element signature="e#33#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/acme/pages/blog/rss.htm">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/acme/partials/site/header.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="50" />
         </state>
       </provider>
     </entry>
